@@ -338,7 +338,7 @@
                   &trans  &trans  &trans         &trans          &trans    &trans    &kp PAGE_UP  &trans        &trans     &trans
                   &trans  &trans  &kp PAGE_DOWN  &kp LEFT_SHIFT  &trans    &kp LEFT  &kp DOWN     &kp UP_ARROW  &kp RIGHT  &trans
 &kp LEFT_CONTROL  &trans  &trans  &trans         &trans          &trans    &trans    &trans       &trans        &trans     &trans  &trans
-                                  &trans         &tog 0          &trans    &trans    &trans       &trans
+                                  &trans         &tog 6          &trans    &trans    &trans       &trans
             >;
         };
     };
